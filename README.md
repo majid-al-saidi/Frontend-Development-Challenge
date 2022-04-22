@@ -1,6 +1,8 @@
 # [Codestacker Challenges] Frontend Development challenge Quiz
 
 This project is an online quiz contain 12 qestion, created using laravel, sqlite, tailwind, Alpine.js and javascript.
+-Elegant clean style.
+-Responsive.
 
 ## Installation
 
