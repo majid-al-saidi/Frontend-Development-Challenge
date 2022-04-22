@@ -4,11 +4,12 @@ This project is an online quiz contain 12 qestion, created using laravel, sqlite
 
 ## Installation
 
-Use composer, and npm to install the project, full comands list:
+Use composer, and npm to install the project, full commands list:
 
 ```bash
 composer install
 php artisan key:generate
+touch database/database.sqlite
 php artisan migrate
 php artisan db:seed
 npm install
