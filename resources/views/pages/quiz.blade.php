@@ -240,7 +240,7 @@
                 }
             }
 
-            // https://codepen.io/ishanbakshi/pen/pgzNMv
+            // many thanks to: https://codepen.io/ishanbakshi/pen/pgzNMv
             document.getElementById('timer').innerHTML = 05 + ":" + 00;
             startTimer();
 
